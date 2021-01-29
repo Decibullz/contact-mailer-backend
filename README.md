@@ -5,6 +5,6 @@ update .env file with<br/>
     EMAIL=yourEmailHere<br/>
     WORD=yourPasswordHere<br/>
     SERVICE= 'smtp server goes here'<br/>
-    ^ notice qoutes
+    ^ notice quotes
 
 update server.js line 35-37 to desired preference 
